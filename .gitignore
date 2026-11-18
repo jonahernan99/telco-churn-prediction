@@ -1,0 +1,19 @@
+# Dataset: download it yourself (see data/README.md)
+data/*.xlsx
+data/*.csv
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Editors and OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
